@@ -1,0 +1,43 @@
+body
+	{
+	      background-position: center;
+         background-repeat: no-repeat;
+	 color:#d5e3ff;
+	 font-family:Arial;
+	 }
+body {
+		 color: black ;
+		 font-weight: bold;
+        text-align: center;
+		font-size: 40px;
+	 }
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+	color: red;
+}
+
+td{
+	background-color:#6495ED;
+	color: white;
+}
+th
+{
+	background-color: #4CAF50;
+	border-style: inset;
+    color: #8B008B;
+	font-size: 20px;
+	font-weight: bold
+}
+
+
+body{background-color:#7FFFD4;}
+
+th, td {
+	border-style: solid;
+	//font-weight: bold;
+    padding: 15px;
+    text-align: center;
+}
